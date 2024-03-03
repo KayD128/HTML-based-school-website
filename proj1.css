@@ -1,0 +1,95 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0;
+}
+
+header nav {
+  background-color: #EDF4F9;
+  padding: 40px 0px;
+}
+
+header nav ul li {
+  font-family: "Architects Daughter", cursive, sans-serif;
+}
+
+main {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+main #first {
+  color: white;
+}
+
+main #first #in-car #carousel-1 {
+  background-image: url("download.jfif");
+}
+
+main #first #in-car #carousel-2 {
+  background-image: url("sports.jfif");
+}
+
+main #first #in-car #carousel-3 {
+  background-image: url("building.jfif");
+}
+
+main #first #in-car #carousel-4 {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#9e9e9e), to(white)), url("scholarship.jfif");
+  background-image: linear-gradient(#9e9e9e, white), url("scholarship.jfif");
+}
+
+main #second {
+  background-color: #EDF4F9;
+}
+
+main #second button {
+  color: white;
+}
+
+main #third {
+  color: #fcfcfc;
+  line-height: 30px;
+}
+
+main #third #col-1 {
+  background-color: #B71C1C;
+}
+
+main #third #col-2 {
+  background-color: #C62828;
+}
+
+main #third #col-3 {
+  background-color: #C62828;
+}
+
+main #third #col-4 {
+  background-color: #D32F2F;
+}
+
+main #fourth {
+  font-family: "Architects Daughter", cursive, sans-serif;
+  line-height: 30px;
+}
+
+footer {
+  background: -webkit-gradient(linear, right top, left bottom, color-stop(20%, #D32F2F), color-stop(70%, #717171));
+  background: linear-gradient(to left bottom, #D32F2F 20%, #717171 70%);
+}
+
+footer div {
+  padding: 30px 0px;
+}
+
+footer div div div li {
+  list-style-type: none;
+}
+
+footer div div div li a {
+  color: #fcfcfc;
+}
+
+footer p {
+  color: #424242;
+}
+/*# sourceMappingURL=proj1.css.map */

@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+header nav {
+    padding: 40px 0px;
+    background-color: #EDF4F9;
+}
+  
+header nav ul li {
+    font-family: "Architects Daughter", cursive, sans-serif;
+}
+  
+  header nav ul li a {
+    color: #424242 !important;
+}
+
+main {
+    background: linear-gradient(to left bottom,#D32F2F 20%,#717171 70%);
+    background-size: cover;
+    color: black;
+    height: 450px;
+    padding: 0px 150px;
+}
+
+#cont-2 {
+    color: black;
+}
+
+#row-2 {
+    width: 90%;
+}
+
+footer {
+    background: -webkit-gradient(linear, right top, left bottom, color-stop(20%, #D32F2F), color-stop(70%, #717171));
+    background: linear-gradient(to left bottom, #D32F2F 20%, #717171 70%);
+    margin-top: 600px;
+  }
+  
+footer div {
+    padding: 30px 0px;
+}
+
+footer div div div li {
+    list-style-type: none;
+}
+
+footer div div div li a {
+    color: #fcfcfc;
+}
+
+footer p {
+    color: #424242;
+}

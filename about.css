@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+nav {
+    background-color: #EDF4F9;
+}
+
+#part-1 {
+    color: white;
+    background: linear-gradient(to left bottom,#D32F2F 20%,#717171 70%);
+    height: 250px;
+}
+
+#part-2 div {
+    background-color: #FF9600;
+    height: 10px;
+    width: 5%;
+    border-radius: 10px;
+}
+
+#part-3 {
+    background-color: #EDF4F9;
+}
+

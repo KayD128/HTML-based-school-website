@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+
+main {
+    background-color: #fcfcfc;
+}
+
+#cont-1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url('korede.jpg');
+    width: 100%;
+}
+
+#award {
+    /* background-color: #efefef;
+    border-left: 8px solid #8d8d8d;
+    border-radius: 10px; */
+    text-shadow: 2px 0px #D32F2F;
+}
+
+#sports {
+    /* background-color: #efefef;
+    border-left: 8px solid #8d8d8d;
+    border-radius: 10px; */
+    text-shadow: 2px 0px #D32F2F;
+
+}
+
+#cont-3 {
+    color: #546E7A;
+}
+
+#cont-3 #live {
+    background-color: #8d8d8d;
+}
